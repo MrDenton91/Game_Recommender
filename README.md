@@ -14,7 +14,7 @@ Using Cosine Similarty I created a simple content recommendation.
 * Description: Summary, multiplayer, Developer, Rating
 
 ### Output
-Currently it outputs the 5 games simulare to 'God of War'
+Currently it outputs the 5 games similar to 'God of War'
 
 ### Improvements
 * Will be implmenting a GUI in the next update
