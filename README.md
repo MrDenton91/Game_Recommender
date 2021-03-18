@@ -7,11 +7,11 @@ Metacritic is the site for posting and gathering reviews on currently released v
 Using Cosine Similarty I created a simple content recommendation. 
 
 ## Features
-Title:
-Meta_Score:
-User_Score:
-Game_Release_Date:
-Description: Summary, multiplayer, Developer, Rating
+* Title:
+* Meta_Score:
+* User_Score:
+* Game_Release_Date:
+* Description: Summary, multiplayer, Developer, Rating
 
 ### Output
 Currently it outputs the 5 games simulare to 'God of War'
