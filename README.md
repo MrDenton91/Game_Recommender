@@ -7,6 +7,7 @@ Metacritic is the site for posting and gathering reviews on currently released v
 Using Cosine Similarty I created a simple content recommendation. 
 
 ## Analysis
+intial inspection of Sony's PS4 releases show an average of 14 games released per month.
 ![](images/releases_perMonth2.PNG) 
 
 * From this Graph you can see how Sony has distributed thier releases for the consoles life. 
@@ -30,5 +31,5 @@ Using Cosine Similarty I created a simple content recommendation.
 Currently it outputs the 5 games similar to 'God of War'
 
 ### Improvements
-* Will be implmenting a GUI in the next update
-* Will be adding more Consoles in the next release
+* Implmenting a GUI in the next update
+* Adding more Consoles in the next release
