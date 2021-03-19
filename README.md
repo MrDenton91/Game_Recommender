@@ -15,7 +15,7 @@ Using Cosine Similarty I created a simple content recommendation.
 
 * Marh for each year has an intresting shape and similar distribution to the releaes per-year graph.
 
-!{}(images/March_releases.PNG) 
+![](images/March_releases.PNG) 
 
 * futher investigation is required, but Hypothesis is the Microsft consol will have a similar Year and March distribution.
 
