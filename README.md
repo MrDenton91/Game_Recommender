@@ -6,12 +6,25 @@ Metacritic is the site for posting and gathering reviews on currently released v
 ## Results
 Using Cosine Similarty I created a simple content recommendation. 
 
+## Analysis
+![](images/releases_perMonth.PNG) 
+
+* From this Graph you can see how Sony has distributed thier releases for the consoles life. 
+
+![](images/releases_perYear.PNG)
+
+* Marh for each year has an intresting shape and similar distribution to the releaes per-year graph.
+
+!{}(images/March_releases.PNG) 
+
+* futher investigation is required, but Hypothesis is the Microsft consol will have a similar Year and March distribution.
+
 ## Features
 * Title:
 * Meta_Score:
 * User_Score:
 * Game_Release_Date:
-* Description: Summary, multiplayer, Developer, Rating
+* Description: Summary, Multiplayer, Developer, Rating
 
 ### Output
 Currently it outputs the 5 games similar to 'God of War'
