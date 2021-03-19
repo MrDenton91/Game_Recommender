@@ -7,7 +7,7 @@ Metacritic is the site for posting and gathering reviews on currently released v
 Using Cosine Similarty I created a simple content recommendation. 
 
 ## Analysis
-![](images/releases_perMonth.PNG) 
+![](images/releases_perMonth2.PNG) 
 
 * From this Graph you can see how Sony has distributed thier releases for the consoles life. 
 
