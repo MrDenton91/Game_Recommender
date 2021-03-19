@@ -16,7 +16,7 @@ intial inspection of Sony's PS4 releases show an average of 14 games released pe
 
 * Marh for each year has an intresting shape and similar distribution to the releaes per-year graph.
 
-![](images/March_releases.PNG) 
+![](images/releases_perMonth.PNG) 
 
 * futher investigation is required, but Hypothesis is the Microsft consol will have a similar Year and March distribution.
 
