@@ -12,7 +12,7 @@ intial inspection of Sony's PS4 releases show an average of 14 games released pe
 
 * From this Graph you can see how Sony has distributed thier releases for the consoles life. 
 
-![](images/releases_perYear.PNG)
+![](images/releases_perYear.PNG.png)
 
 * Marh for each year has an intresting shape and similar distribution to the releaes per-year graph.
 
