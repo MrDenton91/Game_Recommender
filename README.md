@@ -9,15 +9,15 @@ Using Cosine Similarty I created a simple content recommendation. I didn't feel 
 ## Analysis
 intial inspection of Sony's PS4 Consel show an average of 25 games released per month.
 
-![] (Playstation_monthly_release.png)
+![](Playstation_monthly_release.png)
 
 intial inspection of Microsoft's Xbox Consel show an average of 15 games released per month.
 
-![] (xbox_monthly_release.png)
+![](xbox_monthly_release.png)
 
 intial inspection of Nintendo's Switch Consel show an average of 28 games released per month.
 
-![] (Nintendo_monthly_release.png)
+![](Nintendo_monthly_release.png)
 
 ## Features
 * Title:
