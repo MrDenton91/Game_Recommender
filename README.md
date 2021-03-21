@@ -7,18 +7,14 @@ Metacritic is the site for posting and gathering reviews on currently released v
 Using Cosine Similarty I created a simple content recommendation. 
 
 ## Analysis
-intial inspection of Sony's PS4 releases show an average of 14 games released per month.
-![](images/releases_perMonth2.PNG) 
+intial inspection of Sony's PS4 show an average of 25 games released per month.
+![](Playstation_monthly_release.jpg)
 
-* From this Graph you can see how Sony has distributed thier releases for the consoles life. 
+intial inspection of Microsoft's Xbox Consel show an average of 15 games released per month.
+![](xbox_monthly_release.jpg)
 
-![](images/releases_perYear.PNG.png)
-
-* Marh for each year has an intresting shape and similar distribution to the releaes per-year graph.
-
-![](images/March_releases.PNG.png) 
-
-* futher investigation is required, but Hypothesis is the Microsft consol will have a similar Year and March distribution.
+intial inspection of Nintendo's Switch Consel show an average of 28 games released per month.
+![](Nintendo_monthly_release.jpg)
 
 ## Features
 * Title:
@@ -32,4 +28,4 @@ Currently it outputs the 5 games similar to 'God of War'
 
 ### Improvements
 * Implmenting a GUI in the next update
-* Adding more Consoles in the next release
+
