@@ -7,7 +7,7 @@ Metacritic is the site for posting and gathering reviews on currently released v
 Using Cosine Similarty I created a simple content recommendation. 
 
 ## Analysis
-intial inspection of Sony's PS4 show an average of 25 games released per month.
+intial inspection of Sony's PS4 Consel show an average of 25 games released per month.
 ![](Playstation_monthly_release.jpg)
 
 intial inspection of Microsoft's Xbox Consel show an average of 15 games released per month.
