@@ -3,8 +3,8 @@ import numpy as np
 
 
 def clean_it(system):
-
-    data = pd.read_csv(system+'game_data.csv')
+    csv_file = system + 'game_data.csv'
+    data = pd.read_csv(csv_file)
     data = data[data.User_score != 'tbd']
     #data.set_index('Title', inplace =True)
 
@@ -34,7 +34,18 @@ def clean_it(system):
     data.drop(columns = ['Descrition'], inplace = True)
     data['Descrition'] = dess
 
+    data = data.drop_duplicates(subset=['Title'])
 
+    title = data['Title'].tolist()
+    title_list = []
+    for ti in title:
+        ti = ti.lower()
+        title_list.append(ti)
+    titt = np.array(title_list)
+    data.drop(columns=['Title'], inplace = True)
+    data['Title'] = titt
+
+    data = data.drop_duplicates(subset=['Title'])
 
     columns = data.columns
     data['bag_of_words'] = ''
@@ -45,7 +56,7 @@ def clean_it(system):
             words += ''.join(str(row[col]))+ ' '
         data['bag_of_words'][index] = words    
 
-    data.drop(columns = ['Meta_score','Summary','User_score','GamesRelease','Descrition'], inplace = True)
-
+    data.drop(columns = ['Meta_score','Summary','User_score','Games_release','Descrition','Console '], inplace = True)
+    
 
     return data
