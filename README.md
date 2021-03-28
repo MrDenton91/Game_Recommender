@@ -7,20 +7,20 @@ Metacritic is the site for posting and gathering reviews on currently released v
 Using Cosine Similarty I created a simple content recommendation. I didn't feel comfortable taking individual user submited reviews, to build user simularity recomandations. 
 
 ## Analysis
-Intial inspection of Sony's PS4 console show an average of 25 games released per month.
-Average Critic score 69.9
-Average User score 6.3
+* Intial inspection of Sony's PS4 console show an average of 25 games released per month.
+* Average Critic score 69.9
+* Average User score 6.3
 
 ![](images/Playstation_monthly_release.png)
 
-Intial inspection of Microsoft's Xbox console show an average of 15 games released per month.
-Average Critic score 70.8
-Average User score 6.4
+* Intial inspection of Microsoft's Xbox console show an average of 15 games released per month.
+* Average Critic score 70.8
+* Average User score 6.4
 ![](images/xbox_monthly_release.png)
 
-Intial inspection of Nintendo's Switch console show an average of 28 games released per month.
-Average Critic score 70.3
-Average User score 7.1
+* Intial inspection of Nintendo's Switch console show an average of 28 games released per month.
+* Average Critic score 70.3
+* Average User score 7.1
 ![](images/Nintendo_monthly_release.png)
 
 ## Features
